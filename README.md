@@ -7,3 +7,13 @@ Raum: 745 116 1. OG
 
 ## Live Agenda :calendar:
 <a href="https://docs.google.com/spreadsheets/d/1hHPUcmmxsybYDI1_6r7nv_hVpV81eu1qJuDJ2n4ghBs/edit?usp=sharing" target="_blank">Link zu Agenda (Check for Updates)</a>
+
+
+
+Instructors: Stefanie Bräuer, Yann Martins, Hanna Züllig<br/>
+Term: Spring 2024, HSLU<br/>
+
+
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109315060138063198?domain=https%3A%2F%2Fswiss.social&style=social)
