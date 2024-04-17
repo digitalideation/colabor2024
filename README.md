@@ -6,7 +6,7 @@ Raum: 745 116 1. OG
 <a href="https://github.com/digitalideation/colabor2024/wiki" target="_blank">Wiki zum Colabor Creative Coding</a>
 
 ## Live Agenda :calendar:
-<a href="https://[docs.google.com/spreadsheets/d/1hHPUcmmxsybYDI1_6r7nv_hVpV81eu1qJuDJ2n4ghBs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1n-JCZhJsKEGC1vHl87fq06N64-b8CSv_PxTJTCob_DA/edit?usp=sharing)" target="_blank">Link zu Agenda (Check for Updates)</a>
+<a href="https://docs.google.com/spreadsheets/d/1hHPUcmmxsybYDI1_6r7nv_hVpV81eu1qJuDJ2n4ghBs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1n-JCZhJsKEGC1vHl87fq06N64-b8CSv_PxTJTCob_DA/edit?usp=sharing" target="_blank">Link zu Agenda (Check for Updates)</a>
 
 ## Discord Server :question: :speech_balloon:
 <a href="https://discord.gg/qW2Z6ATMKe">Join our Discord Server</a>
