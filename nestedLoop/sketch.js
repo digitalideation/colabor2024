@@ -25,7 +25,7 @@ function draw() {
   for (let j = 0; j < anzahlY; j++) {
     //zeichneZeile(j);
     for (let i = 0; i < anzahlX; i = i + 1) {
-      rect(i * breiteX, j * hoeheY, breiteX, hoeheY);
+      rect(i * breiteX, j * hoeheY, breiteX/(i+1), hoeheY);
 
     }
   }
