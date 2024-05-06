@@ -135,6 +135,6 @@ function zeichneBezierShape(t){
   bezierVertex(cx11,cy11,cx21,cy21,x2,y2);
   bezierVertex(cx22,cy22,cx31,cy31,x3,y3);
   bezierVertex(cx32,cy32,cx41,cy41,x4,y4);
-  bezierVertex(cx42,cy42,cx12,cy12,x1,y1);
+  bezierVertex(cx42,cy42,cx12,cy12,x1,y1); 
   endShape();
 }
