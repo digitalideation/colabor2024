@@ -11,6 +11,27 @@ Raum: 745 116 1. OG
 ## Discord Server :question: :speech_balloon:
 <a href="https://discord.gg/qW2Z6ATMKe">Join our Discord Server</a>
 
+*** 
+## Repos Students 
+
+* Christina: https://github.com/chrabg/Colabor-Creative-Coding
+* Christine: https://github.com/vogelCHB/Collabor-Creativ-Code
+* Mirja: https://github.com/digimito/Creative-Coding
+* Lukas: https://github.com/lukasfrauenfelder/Repo
+* Dimitri: https://github.com/dimitrigadola/creative-coding-dimitri
+* Elias: https://github.com/Ajapai/creative-coding
+* Lena: https://github.com/katarina-marlin-lena/Creative-Coding
+* Perla: https://github.com/luurla/-COLABOR---Creative-Coding
+* Samson: 
+* Felisha: https://github.com/schgsi/colabor2024CreativeCoding
+* Yannic: https://github.com/Yannic-reust/colabor24
+* Hannes: https://github.com/HeischiHSLU/COLABOR
+* Valérie: https://github.com/anyxblack/CreativeCoding
+* Laurent: https://github.com/Steckbot/Colabor24
+* Marina: https://github.com/NightGaul/Collabor24-CreativeCoding
+* Fiona: https://github.com/fionazellweger/CreativeCoding  <br/>
+https://fionazellweger.github.io/CreativeCoding/Sketch_Sprint1/
+
 Instructors: Stefanie Bräuer, Yann Martins, Hanna Züllig<br/>
 Term: Spring 2024, HSLU<br/>
 
