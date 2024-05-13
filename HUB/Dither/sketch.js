@@ -177,10 +177,12 @@ function addError(img, factor, x, y, errR, errG, errB) {
 function drawDot(x,y,c){
   newImage.fill(c);
  
+  let brightness = (0.299*red(c) + 0.587*green(c) + 0.114 * blue(c)) ;
+
   let pos={x:x,y:y};
   
  
-
+/*
   let idx = imageIndex(newImage, x, y);
   let xshift=sin(idx/10)*noise(x/10)*n; //add some noise
   let yshift=cos(frameCount/10)*noise(idx/20, sin(frameCount))*n; //add some noise
@@ -188,9 +190,10 @@ function drawDot(x,y,c){
  
   if(y%4==0){
     pos.x+=xshift;
-  }
+  }*/
  
+  let d=map(brightness,0,255,sc*2,0);
   //add some noise
-  newImage.ellipse(pos.x*sc,pos.y*sc,sc,sc)
+  newImage.ellipse(pos.x*sc,pos.y*sc,d,d/2)
 }
 
