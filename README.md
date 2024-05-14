@@ -14,23 +14,23 @@ Raum: 745 116 1. OG
 *** 
 ## Repos Students 
 
-* Christina: https://github.com/chrabg/Colabor-Creative-Coding
-* Christine: https://github.com/vogelCHB/Collabor-Creativ-Code
-* Mirja: https://github.com/digimito/Creative-Coding
-* Lukas: https://github.com/lukasfrauenfelder/Repo
-* Dimitri: https://github.com/dimitrigadola/creative-coding-dimitri
-* Elias: https://github.com/Ajapai/creative-coding
-* Lena: https://github.com/katarina-marlin-lena/Creative-Coding
-* Perla: https://github.com/luurla/-COLABOR---Creative-Coding
-* Samson: https://github.com/SirDey/CoLab24 
-* Felisha: https://github.com/schgsi/colabor2024CreativeCoding
-* Yannic: https://github.com/Yannic-reust/colabor24
-* Hannes: https://github.com/HeischiHSLU/COLABOR
-* Valérie: https://github.com/anyxblack/CreativeCoding
-* Laurent: https://github.com/Steckbot/Colabor24
-* Marina: https://github.com/NightGaul/Collabor24-CreativeCoding
-* Fiona: https://github.com/fionazellweger/CreativeCoding  <br/>
-https://fionazellweger.github.io/CreativeCoding/Sketch_Sprint1/
+* Christina <br/>https://github.com/chrabg/Colabor-Creative-Coding <br/>
+* Christine <br/>https://github.com/vogelCHB/Collabor-Creativ-Code <br/>https://vogelchb.github.io/Collabor-Creativ-Code/
+* Mirja <br/>https://github.com/digimito/Creative-Coding <br/>https://github.com/digimito/Creative-Coding
+* Lukas <br/>https://github.com/lukasfrauenfelder/Repo <br/>https://lukasfrauenfelder.github.io/Repo/
+* Dimitri <br/>https://github.com/dimitrigadola/creative-coding-dimitri <br/> https://dimitrigadola.github.io/creative-coding-dimitri/
+* Elias <br/>https://github.com/Ajapai/creative-coding <br/>
+* Lena <br/>https://github.com/katarina-marlin-lena/Creative-Coding <br/>https://creativecoding2024.netlify.app/
+* Perla <br/>https://github.com/luurla/-COLABOR---Creative-Coding <br/>https://luurla.github.io/-COLABOR---Creative-Coding/
+* Samson <br/>https://github.com/SirDey/CoLab24 <br/>https://colabsaka.netlify.app/
+* Felisha <br/>https://github.com/schgsi/colabor2024CreativeCoding <br/>https://schgsi.github.io/colabor2024CreativeCoding/
+* Yannic <br/>https://github.com/Yannic-reust/colabor24 <br/>https://yannic-reust.github.io/colabor24/
+* Hannes <br/>https://github.com/HeischiHSLU/COLABOR <br/>https://heischihslu.github.io/COLABOR/
+* Valérie <br/>https://github.com/anyxblack/CreativeCoding <br/>https://anyxblack.github.io/CreativeCoding_Valerie/
+* Laurent <br/>https://github.com/Steckbot/Colabor24 <br/>https://steckbot.github.io/Colabor24/
+* Marina <br/>https://github.com/NightGaul/Collabor24-CreativeCoding <br/>https://nightgaul.github.io/Collabor24-CreativeCoding/
+* Fiona<br/>https://github.com/fionazellweger/CreativeCoding  <br/>
+https://fionazellweger.github.io/CreativeCoding/
 
 Instructors: Stefanie Bräuer, Yann Martins, Hanna Züllig<br/>
 Term: Spring 2024, HSLU<br/>
