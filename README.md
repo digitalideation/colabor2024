@@ -16,7 +16,7 @@ Raum: 745 116 1. OG
 
 * Christina <br/>https://github.com/chrabg/Colabor-Creative-Coding <br/> https://chrabg.github.io/Colabor-Creative-Coding/
 * Christine <br/>https://github.com/vogelCHB/Collabor-Creativ-Code <br/>https://vogelchb.github.io/Collabor-Creativ-Code/
-* Mirja <br/>https://github.com/digimito/Creative-Coding <br/>https://github.com/digimito/Creative-Coding
+* Mirja <br/>https://github.com/digimito/Creative-Coding <br/> https://digimito.github.io/Creative-Coding/
 * Lukas <br/>https://github.com/lukasfrauenfelder/Repo <br/>https://lukasfrauenfelder.github.io/Repo/
 * Dimitri <br/>https://github.com/dimitrigadola/creative-coding-dimitri <br/> https://dimitrigadola.github.io/creative-coding-dimitri/
 * Elias <br/>https://github.com/Ajapai/creative-coding <br/> https://ajapai.github.io/creative-coding/
