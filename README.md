@@ -20,7 +20,7 @@ Raum: 745 116 1. OG
 * Lukas <br/>https://github.com/lukasfrauenfelder/Repo <br/>https://lukasfrauenfelder.github.io/Repo/
 * Dimitri <br/>https://github.com/dimitrigadola/creative-coding-dimitri <br/> https://dimitrigadola.github.io/creative-coding-dimitri/
 * Elias <br/>https://github.com/Ajapai/creative-coding <br/> https://ajapai.github.io/creative-coding/
-* Lena <br/>https://github.com/katarina-marlin-lena/Creative-Coding <br/>https://creativecoding2024.netlify.app/
+* Lena <br/>https://github.com/Lena-heinen/Creative-Coding <br/>https://creativecoding2024.netlify.app/
 * Perla <br/>https://github.com/luurla/-COLABOR---Creative-Coding <br/>https://luurla.github.io/-COLABOR---Creative-Coding/
 * Samson <br/>https://github.com/SirDey/CoLab24 <br/>https://colabsaka.netlify.app/
 * Felisha <br/>https://github.com/schgsi/colabor2024CreativeCoding <br/>https://schgsi.github.io/colabor2024CreativeCoding/
