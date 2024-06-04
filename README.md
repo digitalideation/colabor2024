@@ -23,7 +23,7 @@ Raum: 745 116 1. OG
 * Lena <br/>https://github.com/Lena-heinen/Creative-Coding <br/>https://creativecoding2024.netlify.app/
 * Perla <br/>https://github.com/luurla/-COLABOR---Creative-Coding <br/>https://luurla.github.io/-COLABOR---Creative-Coding/
 * Samson <br/>https://github.com/SirDey/CoLab24 <br/>https://colabsaka.netlify.app/
-* Felisha <br/>https://github.com/schgsi/colabor2024CreativeCoding <br/>https://schgsi.github.io/colabor2024CreativeCoding/
+* Felisha <br/>https://github.com/schgsi/colabor2024CreativeCoding <br/>https://schgsi.github.io/creative-coding/index.html
 * Yannic <br/>https://github.com/Yannic-reust/colabor24 <br/>https://yannic-reust.github.io/colabor24/
 * Hannes <br/>https://github.com/HeischiHSLU/COLABOR <br/>https://heischihslu.github.io/COLABOR/
 * Valérie <br/>https://github.com/anyxblack/CreativeCoding <br/>https://anyxblack.github.io/CreativeCoding_Valerie/
