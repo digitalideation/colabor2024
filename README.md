@@ -11,6 +11,11 @@ Raum: 745 116 1. OG
 ## Discord Server :question: :speech_balloon:
 <a href="https://discord.gg/qW2Z6ATMKe">Join our Discord Server</a>
 
+***
+## Process Pages 
+
+https://digitalideation.github.io/colabor2024/
+
 *** 
 ## Repos Students 
 
