@@ -18,6 +18,60 @@ body {
     color: white;
 }
 
+/* Info */
+#info-icon {
+    position: absolute;
+    top: 1vw;
+    right: 1vw;
+    width: 3vw;
+    filter: brightness(1);
+    transition: all 0.1s ease;
+}
+
+#info-icon:hover {
+    cursor: pointer;
+    filter: brightness(2);
+}
+
+#info-card {
+    overflow: hidden;
+    position: fixed;
+    top: 10rem;
+    left: 20%;
+    background-color: white;
+
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.info-open {
+    width: 60%;
+    height: auto;
+}
+
+.info-closed {
+    width: 0px;
+    height: 0px;
+}
+
+#info-card img {
+    width: 3%;
+    top: 0;
+    right: 0;
+    position: absolute;
+    transform: rotate(0deg);
+    transition: all 0.3s ease;
+}
+
+#info-card img:hover {
+    cursor: pointer;
+    transform: rotate(90deg);
+}
+
+#info-card div {
+    margin: 3%;
+}
 /* Gallery */
 .gallery {
     display: flex;
