@@ -2,6 +2,9 @@
 Zeiten: 9:15 – 11:50 und 12:50 – 15:10  <br/>
 Raum: 745 116 1. OG
 
+## Instructors
+Hanna Züllig (Lead), Stefanie Bräuer, Yann Martins
+
 ## Wiki 
 <a href="https://github.com/digitalideation/colabor2024/wiki" target="_blank">Wiki zum Colabor Creative Coding</a>
 
